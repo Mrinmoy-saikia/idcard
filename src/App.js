@@ -1,9 +1,10 @@
 import "./App.css";
+import FormComponent from "./FormComponent";
 
 function App() {
   return (
     <div className="App">
-      <h1>Generate Id Card</h1>
+      <FormComponent />
     </div>
   );
 }
