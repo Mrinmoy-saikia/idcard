@@ -77,7 +77,7 @@ function FormComponent() {
           <button type="submit">Generate Card</button>
         </form>
       </div>
-      <div className="right-panel">
+      <div className="mx-4">
         <div className="id-card-container">
           <div className="photo-container">
             <div className="photo" id="idCardPhoto">

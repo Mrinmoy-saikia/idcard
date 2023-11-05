@@ -95,11 +95,13 @@ button {
 .id-card-container {
   display: flex;
   align-items: flex-start;
-  width: 400px;
-  height: 220px;
+  width: 450px;
+  height: 290px;
   padding: 20px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.8);
   background-color: rebeccapurple;
+  background-image: url(2609.jpeg);
+  background-size: cover;
 }
 
 .photo-container {
